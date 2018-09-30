@@ -1,2 +1,2 @@
 # othello-game
-its a game 
+its othello, no modified rules or any other shinanagans 
